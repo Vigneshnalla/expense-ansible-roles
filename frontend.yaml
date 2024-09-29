@@ -1,4 +1,4 @@
-- name: frontend
+- name: configure frontend
   hosts: frontend
   vars_files:
     - credentials.yaml
