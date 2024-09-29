@@ -1,0 +1,7 @@
+- name: frontend
+  hosts: frontend
+  vars_files:
+    - credentials.yaml
+  become: yes
+  roles:
+    - frontend
