@@ -1,2 +1,6 @@
-mysql_root_password: ExpenseApp@1
-login_host: db.daws78s.online
+login_user: root
+login_host: db.vigneshdev.online
+login_password: ExpenseApp@1
+DB_HOST: db.vigneshdev.online
+app_location: /app
+component: backend
